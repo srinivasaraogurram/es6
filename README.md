@@ -7,3 +7,6 @@ Solutions to all 36 coding exercises are attached to this lecture as a downloada
 Link to the JSPlaygrounds tool used in the course:
 
 https://stephengrider.github.io/JSPlaygrounds/
+
+Join Our Community!
+We welcome you to join our Discord community of fellow students, developers, and engineers. Keep up with the latest news and announcements or start a discussion by clicking here: https://discord.gg/vvcyvjDkdC
